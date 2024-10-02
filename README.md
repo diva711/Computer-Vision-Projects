@@ -24,23 +24,23 @@ Matplotlib
 
 To get started with any of the projects, simply clone the repository:
 
-    ```bash
-    git clone https://github.com/diva711/Computer-Vision-Projects.git
-    ```
+ ```bash
+        git clone https://github.com/diva711/Computer-Vision-Projects.git
+  ```
 
 Navigate into the project directory:
 
-     ```bash
-    cd Computer-Vision-Projects
-    ```
+  ```bash
+        cd Computer-Vision-Projects
+  ```
 
 
 Install the required dependencies:
 
      
-    ```bash
-    pip install -r requirements.txt
-    ```
+ ```bash
+        pip install -r requirements.txt
+ ```
 
 ### 🤝 Contributing
 I welcome contributions to enhance these projects! Feel free to fork the repository, make your improvements, and submit a pull request.
